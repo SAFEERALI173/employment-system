@@ -1,5 +1,4 @@
 import { BABox, BAButton } from 'basuite'
-import React from 'react'
 
 const CreateTask = () => {
   return (
