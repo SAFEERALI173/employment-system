@@ -1,11 +1,6 @@
 
-import { BABox, BAFormElement, BAScreenHeader } from 'basuite'
-import Login from './components/Auth/Login'
-import Header from './others/header'
-import TaskNumberList from './others/TaskNumberList'
-import TaskList from './components/Tasklist/TaskList'
-import AdminDashboard from './components/Dashboard/adminDashboard'
-import EmployDashboard from './components/Dashboard/employDashboard'
+import { BABox } from 'basuite'
+import EmployDashboard from './components/Dashboard/EmployDashboard'
 
 function App() {
 
