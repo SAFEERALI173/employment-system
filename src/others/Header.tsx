@@ -1,5 +1,4 @@
 import { BABox, BAButton, BAPera} from 'basuite'
-import React from 'react'
 
 const Header = () => {
   return (
